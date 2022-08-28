@@ -1,4 +1,4 @@
-<h1> my CV in HTML </h1>
+<h1> my 90s CV in HTML </h1>
 
 <h3>Inspired by: </h3>
 
