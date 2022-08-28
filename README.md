@@ -9,3 +9,4 @@
 </ul>
 
 <p>Have a read and get to know me :)</p>
+<p>Also; as with all CVs, its a working progress</p>
