@@ -9,7 +9,7 @@
   <li><a href="https://www.cs.stanford.edu/~knuth/">Donald E. Knuth</a></li>
 </ul>
 
-<a href="https://amin-sabbagh.github.io/CV/">Live Link</a>
+<a href="https://amin-sabbagh.github.io/CV-90s-Style/">Live Link</a>
 
 <p>Have a read and get to know me :)</p>
 <p>Also; as with all CVs, its a working progress</p>
